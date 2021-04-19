@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background: url("./images/city-2045453_1920.jpg");
+    background-size: cover;
+    background-position:center;
+    color: white;
+    font-family: helvetica;
+  }
+
+  .face {
+      margin-top: 5%;
+      width: 200px;
+      height: 200px;
+      border-radius: 100px;
+
+
+  }
+  
+  p {
+   font-size: 22px;  
+  }
+  
+  input {
+    border: 0;
+    padding: 10px;
+    font-size: 18px;
+  }
+  
+  input[type="submit"] {
+    background: red;
+    color: white;
+  }
